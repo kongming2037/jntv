@@ -1,13 +1,11 @@
 # 上游 M3U 订阅源配置
 # 按优先级从高到低排列:同一频道去重时保留排在前面的源
-# (2026-10-06 实测可用)
+# (2026-10-06 更新:改用 vbskycn/iptv,每日自动更新,含 IPv4/IPv6 双栈)
 upstreams:
-  - name: "范明明-综合"
-    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u"
-  - name: "范明明-移动源"
-    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u"
-  - name: "范明明-IPv6"
-    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+  - name: "vbskycn-IPv4"
+    url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u"
+  - name: "vbskycn-IPv6"
+    url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u"
 
 # 可选:只保留这些关键词的频道(留空=全部保留)
 # include_keywords:
