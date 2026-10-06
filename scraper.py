@@ -1,1 +1,180 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLlm73lhoXnm7Tmkq3mupDmipPlj5bogZrlkIjlmaguCgrku44gc291cmNlcy55YW1sIOmHjOmFjee9rueahOS4iua4uCBNM1Ug6K6i6ZiF5rqQ5oqT5Y+W55u05pKt5rqQLOWQiOW5tuWOu+mHjeWQjui+k+WHuuagh+WHhiBNM1UuCgrnlKjms5U6CiAgICBweXRob24zIHNjcmFwZXIucHkgICAgICAgICAgICAgICAgICAjIOaKk+WPluW5tui+k+WHuuWIsCBvdXRwdXQvaXB0di5tM3UKICAgIHB5dGhvbjMgc2NyYXBlci5weSAtbyBteS5tM3UgICAgICAgICMg5oyH5a6a6L6T5Ye65paH5Lu2CiAgICBweXRob24zIHNjcmFwZXIucHkgLS1jaGVjayAgICAgICAgICAjIOaKk+WPluWQjuWvueavj+S4qua6kOWBmui/numAmuaAp+aKveafpSjmhaIpCiAgICBweXRob24zIHNjcmFwZXIucHkgLS1zb3VyY2VzIGEueWFtbCAjIOaMh+WumuS4iua4uOmFjee9ruaWh+S7tgoK6L6T5Ye6IE0zVSDlj6/nm7TmjqXloavlhaUgSVBUViDmkq3mlL7lmagoVGl2aU1hdGUgLyBJUFRWIFBybyAvIFZMQyAvIE5la29Cb3gg562JKeeahOiuoumYheWcsOWdgC4KIiIiCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgY29uY3VycmVudC5mdXR1cmVzCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHN5cwppbXBvcnQgdGltZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKCnRyeToKICAgIGltcG9ydCB5YW1sCmV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgIHByaW50KCLpnIDopoEgUHlZQU1MOiBwaXAgaW5zdGFsbCBweXlhbWwiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICBzeXMuZXhpdCgyKQoKQkFTRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpVQSA9IHsiVXNlci1BZ2VudCI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBsaXZlLXR2LXNjcmFwZXIvMS4wIn0KCiMg6aKR6YGT5ZCN6KeE6IyD5YyWOuWOu+aOieW4uOingeeahOa4heaZsOW6pi/lkI7nvIDlmarpn7Ms5L6/5LqO5Y676YeNCk5PSVNFX1JFID0gcmUuY29tcGlsZShyIijpq5jmuIV86LaF5riFfOagh+a4hXxIRHxGSER8XFsuKj9cXXxcKC4qP1wpKSIsIHJlLkkpCgoKZGVmIG5vcm1fbmFtZShuYW1lOiBzdHIpIC0+IHN0cjoKICAgIG5hbWUgPSBOT0lTRV9SRS5zdWIoIiIsIG5hbWUpLnN0cmlwKCkKICAgIHJldHVybiByZS5zdWIociJccysiLCAiICIsIG5hbWUpCgoKZGVmIGZldGNoX3RleHQodXJsOiBzdHIsIHRpbWVvdXQ6IGludCA9IDI1KSAtPiBzdHIgfCBOb25lOgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGhlYWRlcnM9VUEpCiAgICB0cnk6CiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0KSBhcyByOgogICAgICAgICAgICByYXcgPSByLnJlYWQoKQogICAgICAgICMg5L6d5qyh5bCd6K+V5aSa56eN57yW56CBCiAgICAgICAgZm9yIGVuYyBpbiAoInV0Zi04IiwgImdiayIsICJnYjE4MDMwIik6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiByYXcuZGVjb2RlKGVuYykKICAgICAgICAgICAgZXhjZXB0IFVuaWNvZGVEZWNvZGVFcnJvcjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcmV0dXJuIHJhdy5kZWNvZGUoInV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGYiICBb5aSx6LSlXSB7dXJsfSAtPiB7ZX0iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIE5vbmUKCgpkZWYgcGFyc2VfbTN1KHRleHQ6IHN0cikgLT4gbGlzdFt0dXBsZVtzdHIsIHN0ciwgc3RyXV06CiAgICAiIiLop6PmnpAgTTNVIOaWh+acrCzov5Tlm54gWyjpopHpgZPlkI0sIOWIhue7hCwg5pKt5pS+5Zyw5Z2AKV0g5YiX6KGoLiIiIgogICAgaXRlbXMgPSBbXQogICAgbmFtZSwgZ3JvdXAgPSBOb25lLCAiIgogICAgZm9yIGxpbmUgaW4gdGV4dC5zcGxpdGxpbmVzKCk6CiAgICAgICAgbGluZSA9IGxpbmUuc3RyaXAoKQogICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgiI0VYVElORiIpOgogICAgICAgICAgICBtID0gcmUuc2VhcmNoKHInZ3JvdXAtdGl0bGU9IihbXiJdKikiJywgbGluZSkKICAgICAgICAgICAgZ3JvdXAgPSBtLmdyb3VwKDEpIGlmIG0gZWxzZSAiIgogICAgICAgICAgICAjIOmikemBk+WQjeWPluacgOWQjuS4gOS4qumAl+WPt+S5i+WQjgogICAgICAgICAgICBuYW1lID0gbGluZS5yc3BsaXQoIiwiLCAxKVstMV0uc3RyaXAoKSBvciAi5pyq55+l6aKR6YGTIgogICAgICAgIGVsaWYgbGluZS5zdGFydHN3aXRoKCIjIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZWxpZiBuYW1lOgogICAgICAgICAgICB1cmwgPSBsaW5lCiAgICAgICAgICAgICMg6L+H5ruk5piO5pi+5peg5pWI55qE5Zyw5Z2ACiAgICAgICAgICAgIGlmIHVybC5zdGFydHN3aXRoKCgiaHR0cDovLyIsICJodHRwczovLyIsICJydG1wOi8vIiwgInJ0c3A6Ly8iKSk6CiAgICAgICAgICAgICAgICBpdGVtcy5hcHBlbmQoKG5hbWUsIGdyb3VwLCB1cmwpKQogICAgICAgICAgICBuYW1lID0gTm9uZQogICAgcmV0dXJuIGl0ZW1zCgoKZGVmIGNoZWNrX3VybCh1cmw6IHN0ciwgdGltZW91dDogaW50ID0gMTApIC0+IGJvb2w6CiAgICAiIiLov57pgJrmgKfmo4Dmn6U66aqM6K+B5rWB5Zyw5Z2A5Y+v6L+e5o6lLgoKICAgIOWFiCBIRUFEIOaOoua0uyzlpLHotKXliJkgR0VUIOivu+WPluS4gOWwj+auteaVsOaNri7lr7kgbTN1OCDmkq3mlL7liJfooajkvJrov5vkuIDmraUKICAgIOmqjOivgeWGheWuueaYr+WQpuS4uuacieaViOeahOaSreaUvuWIl+ihqCjljIXlkKsgI0VYVE0zVSDmiJYgI0VYVC1YLSkuCiAgICDms6jmhI865pyA5YeG56Gu55qE57uT5p6c6ZyA5Zyo5rWO5a6B6IGU6YCa572R57uc546v5aKD5LiL6L+Q6KGM5pys5qOA5p+lLgogICAgIiIiCiAgICB0cnk6CiAgICAgICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGhlYWRlcnM9VUEsIG1ldGhvZD0iSEVBRCIpCiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0KSBhcyByOgogICAgICAgICAgICBpZiByLnN0YXR1cyA+PSA0MDA6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcyAgIyBIRUFEIOWksei0peS4jeebtOaOpeWIpOatuyznu6fnu63nlKggR0VUIOmqjOivgQogICAgdHJ5OgogICAgICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBoZWFkZXJzPVVBKQogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9dGltZW91dCkgYXMgcjoKICAgICAgICAgICAgaWYgci5zdGF0dXMgPj0gNDAwOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgIGRhdGEgPSByLnJlYWQoNDA5NikKICAgICAgICAgICAgIyBtM3U4IOWcsOWdgOW/hemhu+i/lOWbnuaSreaUvuWIl+ihqOWGheWuuQogICAgICAgICAgICBpZiAiLm0zdTgiIGluIHVybC5zcGxpdCgiPyIpWzBdOgogICAgICAgICAgICAgICAgaGVhZCA9IGRhdGFbOjQwMF0uZGVjb2RlKCJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikKICAgICAgICAgICAgICAgIGlmICIjRVhUTTNVIiBub3QgaW4gaGVhZCBhbmQgIiNFWFQtWC0iIG5vdCBpbiBoZWFkOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICByZXR1cm4gbGVuKGRhdGEpID4gMAogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gRmFsc2UKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249IuWbveWGheebtOaSrea6kOaKk+WPluiBmuWQiOWZqCIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tc291cmNlcyIsIGRlZmF1bHQ9b3MucGF0aC5qb2luKEJBU0UsICJzb3VyY2VzLnlhbWwiKSkKICAgIGFwLmFkZF9hcmd1bWVudCgiLW8iLCAiLS1vdXRwdXQiLCBkZWZhdWx0PW9zLnBhdGguam9pbihCQVNFLCAib3V0cHV0IiwgImlwdHYubTN1IikpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tY2hlY2siLCBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9Iui/numAmuaAp+a1i+ivlTrlj6rkv53nlZnlj6/ov57mjqXnmoTmupAo5bu66K6u5Zyo5rWO5a6B6IGU6YCa572R57uc5LiL6L+Q6KGMLOi+g+aFoikiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWNoZWNrLXVuaWNvbSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICAgICAgICAgICAgICAgICAgaGVscD0i5ZCMIC0tY2hlY2ss6K+t5LmJ5LiK5by66LCD5Zyo6IGU6YCa572R57uc546v5aKD6aqM6K+BIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS13b3JrZXJzIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MjApCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCgogICAgd2l0aCBvcGVuKGFyZ3Muc291cmNlcywgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBjZmcgPSB5YW1sLnNhZmVfbG9hZChmKQoKICAgIHVwc3RyZWFtcyA9IGNmZy5nZXQoInVwc3RyZWFtcyIsIFtdKQogICAgcHJpbnQoZiLkuIrmuLjmupAge2xlbih1cHN0cmVhbXMpfSDkuKos5byA5aeL5oqT5Y+WLi4uIikKICAgIGFsbF9pdGVtczogbGlzdFt0dXBsZVtzdHIsIHN0ciwgc3RyLCBzdHJdXSA9IFtdICAjICjop4TojIPlkI0sIOWOn+WQjSwg5YiG57uELCB1cmwpCgogICAgZGVmIGdyYWIodSk6CiAgICAgICAgdGV4dCA9IGZldGNoX3RleHQodVsidXJsIl0pCiAgICAgICAgaWYgbm90IHRleHQ6CiAgICAgICAgICAgIHJldHVybiB1WyJuYW1lIl0sIFtdCiAgICAgICAgaXRlbXMgPSBwYXJzZV9tM3UodGV4dCkKICAgICAgICBwcmludChmIiAgW29rXSB7dVsnbmFtZSddfToge2xlbihpdGVtcyl9IOS4qumikemBkyIpCiAgICAgICAgcmV0dXJuIHVbIm5hbWUiXSwgaXRlbXMKCiAgICB3aXRoIGNvbmN1cnJlbnQuZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9OCkgYXMgZXg6CiAgICAgICAgZm9yIHNyY19uYW1lLCBpdGVtcyBpbiBleC5tYXAoZ3JhYiwgdXBzdHJlYW1zKToKICAgICAgICAgICAgZm9yIG5hbWUsIGdyb3VwLCB1cmwgaW4gaXRlbXM6CiAgICAgICAgICAgICAgICBhbGxfaXRlbXMuYXBwZW5kKChub3JtX25hbWUobmFtZSksIG5hbWUsIGdyb3VwIG9yIHNyY19uYW1lLCB1cmwpKQoKICAgICMg5Y676YeNOuWQjOS4gOinhOiMg+WQjeS/neeVmeesrOS4gOS4quWHuueOsOeahCBVUkwo5LiK5ri45oyJ5LyY5YWI57qn5o6S5bqPKQogICAgc2VlbjogZGljdFtzdHIsIHR1cGxlW3N0ciwgc3RyLCBzdHJdXSA9IHt9CiAgICBmb3Igbm9ybSwgbmFtZSwgZ3JvdXAsIHVybCBpbiBhbGxfaXRlbXM6CiAgICAgICAga2V5ID0gbm9ybQogICAgICAgIGlmIGtleSBub3QgaW4gc2VlbjoKICAgICAgICAgICAgc2VlbltrZXldID0gKG5hbWUsIGdyb3VwLCB1cmwpCiAgICAjIOWQjOS4gOinhOiMg+WQjeS4iyBVUkwg5Y676YeNKOS4jeWQjOa4heaZsOW6pua6kCkKICAgIHVuaXFfdXJsczogZGljdFtzdHIsIHNldFtzdHJdXSA9IHt9CiAgICBmaW5hbDogbGlzdFt0dXBsZVtzdHIsIHN0ciwgc3RyXV0gPSBbXQogICAgZm9yIG5vcm0sIChuYW1lLCBncm91cCwgdXJsKSBpbiBzZWVuLml0ZW1zKCk6CiAgICAgICAgcyA9IHVuaXFfdXJscy5zZXRkZWZhdWx0KG5vcm0sIHNldCgpKQogICAgICAgIGlmIHVybCBub3QgaW4gczoKICAgICAgICAgICAgcy5hZGQodXJsKQogICAgICAgICAgICBmaW5hbC5hcHBlbmQoKG5hbWUsIGdyb3VwLCB1cmwpKQoKICAgIHByaW50KGYi5ZCI5bm25Y676YeN5ZCOIHtsZW4oZmluYWwpfSDkuKrpopHpgZMiKQoKICAgIGlmIGFyZ3MuY2hlY2sgb3IgYXJncy5jaGVja191bmljb206CiAgICAgICAgcHJpbnQoIui/numAmuaAp+a1i+ivleS4rSjlj6rkv53nlZnlj6/ov57mjqXnmoTmupApLi4uIikKICAgICAgICBvayA9IDAKICAgICAgICB3aXRoIGNvbmN1cnJlbnQuZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9YXJncy53b3JrZXJzKSBhcyBleDoKICAgICAgICAgICAgcmVzdWx0cyA9IGxpc3QoZXgubWFwKGxhbWJkYSB0OiAodCwgY2hlY2tfdXJsKHRbMl0pKSwgZmluYWwpKQogICAgICAgIGJlZm9yZSA9IGxlbihmaW5hbCkKICAgICAgICBmaW5hbCA9IFsobiwgZywgdSkgZm9yIChuLCBnLCB1KSwgYWxpdmUgaW4gcmVzdWx0cyBpZiBhbGl2ZV0KICAgICAgICBvayA9IGxlbihmaW5hbCkKICAgICAgICBwcmludChmIua1i+ivlSB7YmVmb3JlfSDkuKos5a2Y5rS7IHtva30g5LiqLOW3suWJlOmZpCB7YmVmb3JlIC0gb2t9IOS4quatu+mTviIpCgogICAgb3MubWFrZWRpcnMob3MucGF0aC5kaXJuYW1lKGFyZ3Mub3V0cHV0KSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHdpdGggb3BlbihhcmdzLm91dHB1dCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGYud3JpdGUoIiNFWFRNM1VcbiIpCiAgICAgICAgZm9yIG5hbWUsIGdyb3VwLCB1cmwgaW4gc29ydGVkKGZpbmFsLCBrZXk9bGFtYmRhIHQ6IHRbMF0pOgogICAgICAgICAgICBzYWZlX2dyb3VwID0gZ3JvdXAucmVwbGFjZSgnIicsICIiKQogICAgICAgICAgICBmLndyaXRlKGYnI0VYVElORjotMSBncm91cC10aXRsZT0ie3NhZmVfZ3JvdXB9Iix7bmFtZX1cbnt1cmx9XG4nKQogICAgcHJpbnQoZiLlt7LlhpnlhaUge2FyZ3Mub3V0cHV0fSAoe2xlbihmaW5hbCl9IOS4qumikemBkykiKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""国内直播源抓取聚合器.
+
+从 sources.yaml 里配置的上游 M3U 订阅源抓取直播源,合并去重后输出标准 M3U.
+
+用法:
+    python3 scraper.py                  # 抓取并输出到 output/iptv.m3u
+    python3 scraper.py -o my.m3u        # 指定输出文件
+    python3 scraper.py --check          # 抓取后对每个源做连通性抽查(慢)
+    python3 scraper.py --sources a.yaml # 指定上游配置文件
+
+输出 M3U 可直接填入 IPTV 播放器(TiviMate / IPTV Pro / VLC / NekoBox 等)的订阅地址.
+"""
+import argparse
+import concurrent.futures
+import os
+import re
+import sys
+import time
+import urllib.request
+
+try:
+    import yaml
+except ImportError:
+    print("需要 PyYAML: pip install pyyaml", file=sys.stderr)
+    sys.exit(2)
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) live-tv-scraper/1.0"}
+
+# 频道名规范化:去掉常见的清晰度/后缀噪音,便于去重
+NOISE_RE = re.compile(r"(高清|超清|标清|HD|FHD|\[.*?\]|\(.*?\))", re.I)
+
+
+def norm_name(name: str) -> str:
+    name = NOISE_RE.sub("", name).strip()
+    return re.sub(r"\s+", " ", name)
+
+
+def fetch_text(url: str, timeout: int = 25) -> str | None:
+    req = urllib.request.Request(url, headers=UA)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            raw = r.read()
+        # 依次尝试多种编码
+        for enc in ("utf-8", "gbk", "gb18030"):
+            try:
+                return raw.decode(enc)
+            except UnicodeDecodeError:
+                continue
+        return raw.decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"  [失败] {url} -> {e}", file=sys.stderr)
+        return None
+
+
+def parse_m3u(text: str) -> list[tuple[str, str, str]]:
+    """解析 M3U 文本,返回 [(频道名, 分组, 播放地址)] 列表."""
+    items = []
+    name, group = None, ""
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("#EXTINF"):
+            m = re.search(r'group-title="([^"]*)"', line)
+            group = m.group(1) if m else ""
+            # 频道名取最后一个逗号之后
+            name = line.rsplit(",", 1)[-1].strip() or "未知频道"
+        elif line.startswith("#"):
+            continue
+        elif name:
+            url = line
+            # 过滤明显无效的地址
+            if url.startswith(("http://", "https://", "rtmp://", "rtsp://")):
+                items.append((name, group, url))
+            name = None
+    return items
+
+
+def check_url(url: str, timeout: int = 10) -> bool:
+    """连通性检查:验证流地址可连接.
+
+    先 HEAD 探活,失败则 GET 读取一小段数据.对 m3u8 播放列表会进一步
+    验证内容是否为有效的播放列表(包含 #EXTM3U 或 #EXT-X-).
+    注意:最准确的结果需在济宁联通网络环境下运行本检查.
+    """
+    try:
+        req = urllib.request.Request(url, headers=UA, method="HEAD")
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            if r.status >= 400:
+                return False
+    except Exception:
+        pass  # HEAD 失败不直接判死,继续用 GET 验证
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            if r.status >= 400:
+                return False
+            data = r.read(4096)
+            # m3u8 地址必须返回播放列表内容
+            if ".m3u8" in url.split("?")[0]:
+                head = data[:400].decode("utf-8", errors="ignore")
+                if "#EXTM3U" not in head and "#EXT-X-" not in head:
+                    return False
+            return len(data) > 0
+    except Exception:
+        return False
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description="国内直播源抓取聚合器")
+    ap.add_argument("--sources", default=os.path.join(BASE, "sources.yaml"))
+    ap.add_argument("-o", "--output", default=os.path.join(BASE, "output", "iptv.m3u"))
+    ap.add_argument("--check", action="store_true",
+                    help="连通性测试:只保留可连接的源(建议在济宁联通网络下运行,较慢)")
+    ap.add_argument("--check-unicom", action="store_true",
+                    help="同 --check,语义上强调在联通网络环境验证")
+    ap.add_argument("--workers", type=int, default=20)
+    args = ap.parse_args()
+
+    with open(args.sources, encoding="utf-8") as f:
+        cfg = yaml.safe_load(f)
+
+    upstreams = cfg.get("upstreams", [])
+    print(f"上游源 {len(upstreams)} 个,开始抓取...")
+    all_items: list[tuple[str, str, str, str]] = []  # (规范名, 原名, 分组, url)
+
+    def grab(u):
+        text = fetch_text(u["url"])
+        if not text:
+            return u["name"], []
+        items = parse_m3u(text)
+        print(f"  [ok] {u['name']}: {len(items)} 个频道")
+        return u["name"], items
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:
+        for src_name, items in ex.map(grab, upstreams):
+            for name, group, url in items:
+                all_items.append((norm_name(name), name, group or src_name, url))
+
+    # 去重:同一规范名保留第一个出现的 URL(上游按优先级排序)
+    seen: dict[str, tuple[str, str, str]] = {}
+    for norm, name, group, url in all_items:
+        key = norm
+        if key not in seen:
+            seen[key] = (name, group, url)
+    # 同一规范名下 URL 去重(不同清晰度源)
+    uniq_urls: dict[str, set[str]] = {}
+    final: list[tuple[str, str, str]] = []
+    for norm, (name, group, url) in seen.items():
+        s = uniq_urls.setdefault(norm, set())
+        if url not in s:
+            s.add(url)
+            final.append((name, group, url))
+
+    print(f"合并去重后 {len(final)} 个频道")
+
+    if args.check or args.check_unicom:
+        print("连通性测试中(只保留可连接的源)...")
+        ok = 0
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as ex:
+            results = list(ex.map(lambda t: (t, check_url(t[2])), final))
+        before = len(final)
+        final = [(n, g, u) for (n, g, u), alive in results if alive]
+        ok = len(final)
+        print(f"测试 {before} 个,存活 {ok} 个,已剔除 {before - ok} 个死链")
+
+    os.makedirs(os.path.dirname(args.output), exist_ok=True)
+    with open(args.output, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        for name, group, url in sorted(final, key=lambda t: t[0]):
+            safe_group = group.replace('"', "")
+            f.write(f'#EXTINF:-1 group-title="{safe_group}",{name}\n{url}\n')
+    print(f"已写入 {args.output} ({len(final)} 个频道)")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
