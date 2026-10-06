@@ -18,6 +18,7 @@ import re
 import sys
 import time
 import urllib.request
+from typing import Optional
 
 try:
     import yaml
@@ -37,7 +38,7 @@ def norm_name(name: str) -> str:
     return re.sub(r"\s+", " ", name)
 
 
-def fetch_text(url: str, timeout: int = 25) -> str | None:
+def fetch_text(url: str, timeout: int = 25) -> Optional[str]:
     req = urllib.request.Request(url, headers=UA)
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
