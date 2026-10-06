@@ -18,7 +18,7 @@ import re
 import sys
 import time
 import urllib.request
-from typing import Optional
+from typing import Optional, List, Tuple, Dict, Set
 
 try:
     import yaml
@@ -55,7 +55,7 @@ def fetch_text(url: str, timeout: int = 25) -> Optional[str]:
         return None
 
 
-def parse_m3u(text: str) -> list[tuple[str, str, str]]:
+def parse_m3u(text: str) -> List[Tuple[str, str, str]]:
     """解析 M3U 文本,返回 [(频道名, 分组, 播放地址)] 列表."""
     items = []
     name, group = None, ""
@@ -125,7 +125,7 @@ def main() -> int:
 
     upstreams = cfg.get("upstreams", [])
     print(f"上游源 {len(upstreams)} 个,开始抓取...")
-    all_items: list[tuple[str, str, str, str]] = []  # (规范名, 原名, 分组, url)
+    all_items: List[Tuple[str, str, str, str]] = []  # (规范名, 原名, 分组, url)
 
     def grab(u):
         text = fetch_text(u["url"])
@@ -141,14 +141,14 @@ def main() -> int:
                 all_items.append((norm_name(name), name, group or src_name, url))
 
     # 去重:同一规范名保留第一个出现的 URL(上游按优先级排序)
-    seen: dict[str, tuple[str, str, str]] = {}
+    seen: Dict[str, Tuple[str, str, str]] = {}
     for norm, name, group, url in all_items:
         key = norm
         if key not in seen:
             seen[key] = (name, group, url)
     # 同一规范名下 URL 去重(不同清晰度源)
-    uniq_urls: dict[str, set[str]] = {}
-    final: list[tuple[str, str, str]] = []
+    uniq_urls: Dict[str, Set[str]] = {}
+    final: List[Tuple[str, str, str]] = []
     for norm, (name, group, url) in seen.items():
         s = uniq_urls.setdefault(norm, set())
         if url not in s:
