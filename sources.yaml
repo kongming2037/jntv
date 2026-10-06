@@ -1,1 +1,19 @@
-IyDkuIrmuLggTTNVIOiuoumYhea6kOmFjee9rgojIOaMieS8mOWFiOe6p+S7jumrmOWIsOS9juaOkuWIlzrlkIzkuIDpopHpgZPljrvph43ml7bkv53nlZnmjpLlnKjliY3pnaLnmoTmupAKIyAoMjAyNi0xMC0wNiDlrp7mtYvlj6/nlKgpCnVwc3RyZWFtczoKICAtIG5hbWU6ICLojIPmmI7mmI4t57u85ZCIIgogICAgdXJsOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Zhbm1pbmdtaW5nL2xpdmUvbWFpbi90di9tM3UvaW5kZXgubTN1IgogIC0gbmFtZTogIuiMg+aYjuaYji3np7vliqjmupAiCiAgICB1cmw6ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZmFubWluZ21pbmcvbGl2ZS9tYWluL3R2L20zdS9pdHYubTN1IgogIC0gbmFtZTogIuiMg+aYjuaYji1JUHY2IgogICAgdXJsOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Zhbm1pbmdtaW5nL2xpdmUvbWFpbi90di9tM3UvaXB2Ni5tM3UiCgojIOWPr+mAiTrlj6rkv53nlZnov5nkupvlhbPplK7or43nmoTpopHpgZMo55WZ56m6PeWFqOmDqOS/neeVmSkKIyBpbmNsdWRlX2tleXdvcmRzOgojICAgLSAiQ0NUViIKIyAgIC0gIuWNq+inhiIKCiMg5Y+v6YCJOuaOkumZpOi/meS6m+WFs+mUruivjeeahOmikemBkwojIGV4Y2x1ZGVfa2V5d29yZHM6CiMgICAtICLotK3niakiCg==
+# 上游 M3U 订阅源配置
+# 按优先级从高到低排列:同一频道去重时保留排在前面的源
+# (2026-10-06 实测可用)
+upstreams:
+  - name: "范明明-综合"
+    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u"
+  - name: "范明明-移动源"
+    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u"
+  - name: "范明明-IPv6"
+    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+
+# 可选:只保留这些关键词的频道(留空=全部保留)
+# include_keywords:
+#   - "CCTV"
+#   - "卫视"
+
+# 可选:排除这些关键词的频道
+# exclude_keywords:
+#   - "购物"
