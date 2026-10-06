@@ -1,1 +1,73 @@
-IyBqbnR2IC0g5rWO5a6B6IGU6YCa5Y+v55So5oCn6aqM6K+B55qE5Zu95YaF55u05pKt5rqQCgroh6rliqjku47lpJrkuKrkuIrmuLggTTNVIOiuoumYhea6kOaKk+WPluWbveWGheeUteinhuebtOaSrea6kCznu4/ov57pgJrmgKfmtYvor5Xov4fmu6TlkI7nlJ/miJDmoIflh4YgTTNVIOaSreaUvuWIl+ihqOOAggrlj6rkv53nlZnpqozor4HpgJrov4fnmoTmupAs56Gu5L+d5Zyo5rWO5a6B6IGU6YCa572R57uc5LiL5Y+v5pKt5pS+44CCCgojIyDmlofku7bor7TmmI4KCnwg5paH5Lu2IHwg6K+05piOIHwKfC0tLS0tLXwtLS0tLS18CnwgYHNjcmFwZXIucHlgIHwg5oqT5Y+W5qC45b+DOuW5tuWPkeaKk+WPluS4iua4uOOAgeino+aekCBNM1XjgIHljrvph43jgIHovpPlh7ogfAp8IGBzb3VyY2VzLnlhbWxgIHwg5LiK5ri46K6i6ZiF5rqQ6YWN572uKOaMieS8mOWFiOe6p+aOkuW6jykgfAp8IGB0di13b3JrZXIuanNgIHwgQ2xvdWRmbGFyZSBXb3JrZXIg6K6i6ZiF5pyN5YqhOumDqOe9suWQjuW+l+WIsOiuoumYhemTvuaOpSB8CnwgYG91dHB1dC9pcHR2Lm0zdWAgfCDmipPlj5bnlJ/miJDnmoTmkq3mlL7liJfooago6L+Q6KGM5ZCO5Lqn55SfKSB8CgojIyDlv6vpgJ/lvIDlp4sKCmBgYGJhc2gKIyAxLiDlronoo4Xkvp3otZYKcGlwIGluc3RhbGwgcHl5YW1sCgojIDIuIOe8lui+kSBzb3VyY2VzLnlhbWws5aGr5YWl5Y+v55So55qE5LiK5ri4IE0zVSDlnLDlnYAKCiMgMy4g6L+Q6KGM5oqT5Y+WKOWQq+i/numAmuaAp+a1i+ivlSzlj6rkv53nlZnlj6/mkq3mlL7nmoTmupApCnB5dGhvbjMgc2NyYXBlci5weSAtLWNoZWNrLXVuaWNvbQoKIyA0LiDovpPlh7ogb3V0cHV0L2lwdHYubTN1LOebtOaOpeWvvOWFpeaSreaUvuWZqApgYGAKCj4gKirms6jmhI8qKjrov57pgJrmgKfmtYvor5XmnIDlh4bnoa7nmoTnu5PmnpzpnIDlnKjmtY7lroHogZTpgJrnvZHnu5znjq/looPkuIvov5DooYzjgIIKPiDlnKjlhbbku5bnvZHnu5zkuIvmtYvor5XpgJrov4fnmoTmupAs5Zyo6IGU6YCa5LiL5aSn5qaC546H5Y+v55SoLOS9hui/kOiQpeWVhuWGhee9kea6kOWPr+iDveS+i+WkluOAggoKIyMjIOi/m+mYtueUqOazlQoKYGBgYmFzaAojIOS4jeWBmui/numAmuaAp+a1i+ivlSzlj6rmipPlj5blkIjlubYo5b+rKQpweXRob24zIHNjcmFwZXIucHkKCiMg5oyH5a6a6L6T5Ye65paH5Lu2CnB5dGhvbjMgc2NyYXBlci5weSAtbyAvdG1wL215Lm0zdQoKIyDmjIflrprkuIrmuLjphY3nva4KcHl0aG9uMyBzY3JhcGVyLnB5IC0tc291cmNlcyBteS1zb3VyY2VzLnlhbWwKYGBgCgojIyDorqLpmIXpk77mjqUo5o6o6I2QKQoK5oqKIGB0di13b3JrZXIuanNgIOmDqOe9suWIsCBDbG91ZGZsYXJlIFdvcmtlciDlkI4s5b6X5Yiw57G75Ly86L+Z5qC355qE6K6i6ZiF5Zyw5Z2AOgoKYGBgCmh0dHBzOi8v5L2g55qEd29ya2VyLndvcmtlcnMuZGV2L2lwdHYubTN1CmBgYAoK5pKt5pS+5ZmoKFRpdmlNYXRlIC8gSVBUViBQcm8gLyBWTEMgLyBLb2RpKemHjOa3u+WKoCLnvZHnu5wgTTNVIOaSreaUvuWIl+ihqCIs5aGr5YWl6K+l5Zyw5Z2A5Y2z5Y+v44CCCldvcmtlciDmr4/mrKHooqvor7fmsYLml7blrp7ml7bku47kuIrmuLjmipPlj5blkIjlubYs5rqQ5rC46L+c5piv5paw55qELOaXoOmcgOaJi+WKqOabtOaWsOOAggoK6YOo572y5q2l6aqkKENsb3VkZmxhcmUgRGFzaGJvYXJkKToKMS4gV29ya2VycyAmIFBhZ2VzIOKGkiBDcmVhdGUg4oaSIENyZWF0ZSBXb3JrZXIg4oaSIOWPluWQjeWmgiBgbGl2ZS10dmAKMi4gRWRpdCBjb2RlIOKGkiDnspjotLQgYHR2LXdvcmtlci5qc2Ag5YaF5a65IOKGkiBTYXZlIGFuZCBkZXBsb3kKMy4gKOWPr+mAiSnnu5Hlrproh6rlrprkuYnln5/lkI0s5aaCIGB0di7kvaDnmoTln5/lkI0uY29tYAoKIyMg5a6a5pe25pu05pawKOWkh+mAieaWueahiCkKCuWmguaenOS4jeeUqCBXb3JrZXIs5Lmf5Y+v5Lul55SoIGNyb24g5q+P5aSp6LeR5LiA5qyh5oqT5Y+WLOaKiiBNM1Ug5o6o6YCB5Yiw5p+Q5Liq6Z2Z5oCB5omY566hOgoKYGBgY3JvbgowIDYgKiAqICogL3Vzci9iaW4vcHl0aG9uMyAvcGF0aC90by9saXZlLXR2LXNjcmFwZXIvc2NyYXBlci5weSAtbyAvdmFyL3d3dy9pcHR2Lm0zdQpgYGAKCiMjIOazqOaEj+S6i+mhuQoKLSDkuIrmuLjmupDlj6/og73lpLHmlYgsYHNvdXJjZXMueWFtbGAg6YeM5aSa6YWN5Yeg5Liq5rqQ5YGa5YaX5L2ZCi0g6YOo5YiG5rqQ5pyJ6Ziy55uX6ZO+LOaKk+WPluaXtuW3suW4pua1j+iniOWZqCBVQSzku43lpLHotKXlj6/mjaLmupAKLSDku4XkvpvkuKrkurrlrabkuaDmtYvor5Xkvb/nlKgK
+# jntv - 济宁联通可用性验证的国内直播源
+
+自动从多个上游 M3U 订阅源抓取国内电视直播源,经连通性测试过滤后生成标准 M3U 播放列表。
+只保留验证通过的源,确保在济宁联通网络下可播放。
+
+## 文件说明
+
+| 文件 | 说明 |
+|------|------|
+| `scraper.py` | 抓取核心:并发抓取上游、解析 M3U、去重、输出 |
+| `sources.yaml` | 上游订阅源配置(按优先级排序) |
+| `tv-worker.js` | Cloudflare Worker 订阅服务:部署后得到订阅链接 |
+| `output/iptv.m3u` | 抓取生成的播放列表(运行后产生) |
+
+## 快速开始
+
+```bash
+# 1. 安装依赖
+pip install pyyaml
+
+# 2. 编辑 sources.yaml,填入可用的上游 M3U 地址
+
+# 3. 运行抓取(含连通性测试,只保留可播放的源)
+python3 scraper.py --check-unicom
+
+# 4. 输出 output/iptv.m3u,直接导入播放器
+```
+
+> **注意**:连通性测试最准确的结果需在济宁联通网络环境下运行。
+> 在其他网络下测试通过的源,在联通下大概率可用,但运营商内网源可能例外。
+
+### 进阶用法
+
+```bash
+# 不做连通性测试,只抓取合并(快)
+python3 scraper.py
+
+# 指定输出文件
+python3 scraper.py -o /tmp/my.m3u
+
+# 指定上游配置
+python3 scraper.py --sources my-sources.yaml
+```
+
+## 订阅链接(推荐)
+
+把 `tv-worker.js` 部署到 Cloudflare Worker 后,得到类似这样的订阅地址:
+
+```
+https://你的worker.workers.dev/iptv.m3u
+```
+
+播放器(TiviMate / IPTV Pro / VLC / Kodi)里添加"网络 M3U 播放列表",填入该地址即可。
+Worker 每次被请求时实时从上游抓取合并,源永远是新的,无需手动更新。
+
+部署步骤(Cloudflare Dashboard):
+1. Workers & Pages → Create → Create Worker → 取名如 `live-tv`
+2. Edit code → 粘贴 `tv-worker.js` 内容 → Save and deploy
+3. (可选)绑定自定义域名,如 `tv.你的域名.com`
+
+## 定时更新(备选方案)
+
+如果不用 Worker,也可以用 cron 每天跑一次抓取,把 M3U 推送到某个静态托管:
+
+```cron
+0 6 * * * /usr/bin/python3 /path/to/live-tv-scraper/scraper.py -o /var/www/iptv.m3u
+```
+
+## 注意事项
+
+- 上游源可能失效,`sources.yaml` 里多配几个源做冗余
+- 部分源有防盗链,抓取时已带浏览器 UA,仍失败可换源
+- 仅供个人学习测试使用
