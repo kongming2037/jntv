@@ -1,1 +1,1 @@
-cHl5YW1sPj02LjAK
+pyyaml>=6.0
