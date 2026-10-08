@@ -8,10 +8,15 @@
  */
 
 // 上游 M3U 订阅源(按优先级排序).部署后可直接改这里增删.
-// (2026-10-06 更新:改用 vbskycn/iptv,每日自动更新,含 IPv4/IPv6 双栈)
+// (2026-10-08 更新:新增 iptv-org 5 个源;vbskycn 仍排前面,保证国内线路优先)
 const UPSTREAMS = [
   { name: "vbskycn-IPv4", url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u" },
   { name: "vbskycn-IPv6", url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u" },
+  { name: "iptv-org-CN", url: "https://iptv-org.github.io/iptv/countries/cn.m3u" },
+  { name: "iptv-org-HK", url: "https://iptv-org.github.io/iptv/countries/hk.m3u" },
+  { name: "iptv-org-TW", url: "https://iptv-org.github.io/iptv/countries/tw.m3u" },
+  { name: "iptv-org-MO", url: "https://iptv-org.github.io/iptv/countries/mo.m3u" },
+  { name: "iptv-org-ZHO", url: "https://iptv-org.github.io/iptv/languages/zho.m3u" },
 ];
 
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) live-tv-sub/1.0";
