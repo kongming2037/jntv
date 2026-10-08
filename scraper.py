@@ -84,7 +84,7 @@ def check_url(url: str, timeout: int = 10) -> bool:
 
     先 HEAD 探活,失败则 GET 读取一小段数据.对 m3u8 播放列表会进一步
     验证内容是否为有效的播放列表(包含 #EXTM3U 或 #EXT-X-).
-    注意:最准确的结果需在济宁联通网络环境下运行本检查.
+    注意:本检查反映运行机器所在本地网络的连通情况.
     """
     try:
         req = urllib.request.Request(url, headers=UA, method="HEAD")
@@ -113,10 +113,10 @@ def main() -> int:
     ap = argparse.ArgumentParser(description="国内直播源抓取聚合器")
     ap.add_argument("--sources", default=os.path.join(BASE, "sources.yaml"))
     ap.add_argument("-o", "--output", default=os.path.join(BASE, "output", "iptv.m3u"))
-    ap.add_argument("--check", action="store_true",
-                    help="连通性测试:只保留可连接的源(建议在济宁联通网络下运行,较慢)")
+    ap.add_argument("--check", "--check-local", action="store_true",
+                    help="连通性测试:只保留本地网络可连接的源(较慢)")
     ap.add_argument("--check-unicom", action="store_true",
-                    help="同 --check,语义上强调在联通网络环境验证")
+                    help="同 --check,旧名称,保留兼容")
     ap.add_argument("--workers", type=int, default=20)
     args = ap.parse_args()
 
