@@ -1,11 +1,11 @@
 # 上游 M3U 订阅源配置
 # 按优先级从高到低排列:同一频道去重时保留排在前面的源
-# (2026-10-08 更新:新增 iptv-org 5 个源;vbskycn 仍排前面,保证国内线路优先)
+# (2026-10-08 更新2:vbskycn 改走 jsDelivr 镜像,raw.githubusercontent.com 在国内手机网络下常被墙)
 upstreams:
   - name: "vbskycn-IPv4"
-    url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u"
+    url: "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv4.m3u"
   - name: "vbskycn-IPv6"
-    url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u"
+    url: "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv6.m3u"
   - name: "iptv-org-CN"
     url: "https://iptv-org.github.io/iptv/countries/cn.m3u"
   - name: "iptv-org-HK"
