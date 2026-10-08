@@ -8,10 +8,10 @@
  */
 
 // 上游 M3U 订阅源(按优先级排序).部署后可直接改这里增删.
-// (2026-10-08 更新:新增 iptv-org 5 个源;vbskycn 仍排前面,保证国内线路优先)
+// (2026-10-08 更新2:vbskycn 改走 jsDelivr 镜像,raw.githubusercontent.com 在国内手机网络下常被墙)
 const UPSTREAMS = [
-  { name: "vbskycn-IPv4", url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u" },
-  { name: "vbskycn-IPv6", url: "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u" },
+  { name: "vbskycn-IPv4", url: "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv4.m3u" },
+  { name: "vbskycn-IPv6", url: "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv6.m3u" },
   { name: "iptv-org-CN", url: "https://iptv-org.github.io/iptv/countries/cn.m3u" },
   { name: "iptv-org-HK", url: "https://iptv-org.github.io/iptv/countries/hk.m3u" },
   { name: "iptv-org-TW", url: "https://iptv-org.github.io/iptv/countries/tw.m3u" },
